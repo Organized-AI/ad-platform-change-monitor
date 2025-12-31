@@ -1,0 +1,18 @@
+{
+  "project": {
+    "name": "Ad Platform Change Monitor",
+    "version": "1.0.0",
+    "type": "cloudflare-worker"
+  },
+  "preferences": {
+    "language": "typescript",
+    "strictMode": true,
+    "testFramework": "vitest",
+    "packageManager": "npm"
+  },
+  "phases": {
+    "current": 0,
+    "total": 5,
+    "completedPhases": []
+  }
+}
