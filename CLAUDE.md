@@ -68,7 +68,7 @@ wrangler tail        # View live logs
 
 ```toml
 # wrangler.toml [vars]
-MONITORED_USER_EMAIL = "jordan@bluehighlightedtext.com"
+MONITORED_USER_EMAIL = "your-email@example.com"
 MONITORED_ACCOUNTS = "1741833734,7994854565,..."
 ACCOUNT_NAMES = "Blade,BiOptimizers,..."
 LOGIN_CUSTOMER_ID = "4761832056"

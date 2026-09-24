@@ -9,7 +9,7 @@ Version 1 focuses exclusively on Google Ads change monitoring with Slack notific
 ### In Scope ✅
 
 - Google Ads change detection via `change_event` API
-- Filter by user email (jordan@bluehighlightedtext.com)
+- Filter by user email (your-email@example.com)
 - Multi-account monitoring (4 accounts)
 - Severity classification (critical, warning, info)
 - Slack notifications for critical/warning changes

@@ -40,7 +40,7 @@ Execute phases in order:
 ## Key Configuration
 
 ```
-Monitored Email: jordan@bluehighlightedtext.com
+Monitored Email: your-email@example.com
 Accounts: Blade, BiOptimizers, RTT, Teleios
 Polling: Every 30 minutes
 ```

@@ -51,7 +51,7 @@ SELECT
 FROM change_event
 WHERE change_event.change_date_time >= 'START'
   AND change_event.change_date_time <= 'END'
-  AND change_event.user_email = 'jordan@bluehighlightedtext.com'
+  AND change_event.user_email = 'your-email@example.com'
 ORDER BY change_event.change_date_time DESC
 ```
 

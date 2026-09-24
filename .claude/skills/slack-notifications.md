@@ -153,7 +153,7 @@ function createSummaryMessage(
         elements: [
           {
             type: 'mrkdwn',
-            text: `Monitored user: jordan@bluehighlightedtext.com | ${new Date().toLocaleString()}`
+            text: `Monitored user: your-email@example.com | ${new Date().toLocaleString()}`
           }
         ]
       }

@@ -4,7 +4,7 @@
 
 ### Quick Context
 
-A Cloudflare Worker that monitors Google Ads accounts (v1) for changes made by jordan@bluehighlightedtext.com and sends Slack notifications.
+A Cloudflare Worker that monitors Google Ads accounts (v1) for changes made by your-email@example.com and sends Slack notifications.
 
 **Origin:** Built after BLADE Google Ads incident (Dec 23, 2025) where conversion goals were modified and went unnoticed for 7 days.
 

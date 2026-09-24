@@ -22,7 +22,7 @@ Create `src/notifications/slack/messages.ts`:
 🔴 CRITICAL: CAMPAIGN_CONVERSION_GOAL
 
 Account:     Blade
-User:        jordan@bluehighlightedtext.com
+User:        your-email@example.com
 Operation:   UPDATE
 Time:        Dec 30, 2025, 2:51 PM
 
